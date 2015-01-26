@@ -1,0 +1,9 @@
+\begin{abstract}
+   "Malicious software," malware refers to software programs designed to damage or do other unwanted actions on a computer system. The common examples of malware include viruses, worms, Trojan horses, and spyware. Viruses, for example, can cause havoc on a computer's hard drive by deleting files or directory information. Spyware can gather data from a user's system without the user knowing it. This can include anything from the web pages a user visits to personal information. It is unfortunate that there are software programmers out there with malicious intent. 
+   
+   Metamorphic malware is a category of malicious software programs (malware) that has the ability to change its code as it propagates. The morphing techniques include register swap, transposition, dead code insertion, formal grammar mutation, code expansion, etc. Bytecode manipulation is an effective technique that can be used to modify existing classes or dynamically generate classes, directly in binary form. There are various bytecode manipulation frameworks and libraries available like Javassist, ASM, Serp, Cojen, BCEL, etc.
+
+   A hidden Markov model (HMM) is a statistical Markov model in which the system being modeled is assumed to be a Markov process with unobserved states. A HMM is based on use of statistics to detect patterns. 
+
+   The proposed project includes understanding the metamorphic malware morphing techniques, the Hidden Markov Models in depth. It includes bytecode manipulation using different libraries. 
+\end{abstract}
