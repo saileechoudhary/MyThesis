@@ -1,0 +1,59 @@
+{\vskip 1.0ex plus\p@ {\bfseries \noindent CHAPTER\hfill }}
+ 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Malware and Malware Detection}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}\hspace {-1.7em}Malware}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}\hspace {-1.7em}Virus}{5}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}\hspace {-1.7em}Encryption}{5}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}\hspace {-1.7em}Oligomorphism}{7}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}\hspace {-1.7em}Polymorphism}{8}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}\hspace {-1.7em}Metamorphism}{10}{subsubsection.2.1.1.4}
+\contentsline {section}{\numberline {2.2}\hspace {-1.7em}Malware Detection}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}\hspace {-1.7em}Signature Detection}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}\hspace {-1.7em}Change Detection}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}\hspace {-1.7em}Anomaly Detection}{12}{subsection.2.2.3}
+\contentsline {chapter}{\numberline {3}Metamorphic Malware}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}\hspace {-1.7em}Techniques for generation of metamorphic malware}{16}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\hspace {-1.7em}Garbage code insertion}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}\hspace {-1.7em}Register swap}{17}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}\hspace {-1.7em}Subroutine Permutation}{18}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}\hspace {-1.7em}Random jump instructions}{19}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}\hspace {-1.7em}Equivalent code substitution}{20}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}\hspace {-1.7em}Host code mutation}{21}{subsection.3.1.6}
+\contentsline {chapter}{\numberline {4}Bytecode Manipulation}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}\hspace {-1.7em}Java Classes}{22}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}\hspace {-1.7em}Structure of Class}{22}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}\hspace {-1.7em}Structure of Method}{25}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}\hspace {-1.7em}Bytecode Instructions}{27}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}\hspace {-1.7em}Bytecode Manipulation}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}\hspace {-1.7em}Bytecode Manipulation Library - ASM}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\hspace {-1.7em}ASM}{32}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}\hspace {-1.7em}Objectives of ASM}{32}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}\hspace {-1.7em}Overview}{33}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}\hspace {-1.7em}Organization}{34}{subsubsection.4.3.1.3}
+\contentsline {subsection}{\numberline {4.3.2}\hspace {-1.7em}Interfaces and Components}{35}{subsection.4.3.2}
+\contentsline {chapter}{\numberline {5}Hidden Markov Models}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}\hspace {-1.7em}Overview of HMMs}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}\hspace {-1.7em}Threshold Approach}{43}{section.5.2}
+\contentsline {section}{\numberline {5.3}\hspace {-1.7em}Dueling Approach}{43}{section.5.3}
+\contentsline {chapter}{\numberline {6}Design and Implementation}{45}{chapter.6}
+\contentsline {section}{\numberline {6.1}\hspace {-1.7em}Machine Configurations and Programming Languages}{45}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}\hspace {-1.7em}Machine Configurations}{45}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}\hspace {-1.7em}Programming Languages}{46}{subsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.2.1}\hspace {-1.7em}Java}{46}{subsubsection.6.1.2.1}
+\contentsline {subsubsection}{\numberline {6.1.2.2}\hspace {-1.7em}Javascript}{46}{subsubsection.6.1.2.2}
+\contentsline {section}{\numberline {6.2}\hspace {-1.7em}Design}{46}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}\hspace {-1.7em}Algorithm}{46}{subsection.6.2.1}
+\contentsline {section}{\numberline {6.3}\hspace {-1.7em}Testing}{49}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}\hspace {-1.7em}Threshold Approach}{49}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}\hspace {-1.7em}Dueling Approach}{50}{subsection.6.3.2}
+\contentsline {chapter}{\numberline {7}Experiments and Results}{52}{chapter.7}
+\contentsline {chapter}{\numberline {8}Conclusion and Future Work}{53}{chapter.8}
+{\vskip 1.0ex plus\p@ {\bfseries \noindent APPENDIX \hfill }}
+ 
+\contentsline {chapter}{Threshold Approach Results}{57}{appendix.A}
+\contentsline {section}{\numberline {A.1}\hspace {-1.7em}HMMs with states 2,3,4 testing for 1st group of data}{57}{section.A.1}
+\contentsline {section}{\numberline {A.2}\hspace {-1.7em}HMMs with states 2,3,4 testing for 2nd group of data}{58}{section.A.2}
+\contentsline {section}{\numberline {A.3}\hspace {-1.7em}HMMs with states 2,3,4 testing for 3rd group of data}{59}{section.A.3}
+\contentsline {section}{\numberline {A.4}\hspace {-1.7em}HMMs with states 2,3,4 testing for 4th group of data}{60}{section.A.4}
+\contentsline {section}{\numberline {A.5}\hspace {-1.7em}HMMs with states 2,3,4 testing for 5th group of data}{61}{section.A.5}

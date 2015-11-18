@@ -1,0 +1,46 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Malware and Malware Detection}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Malware}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Virus}{section.2.1}% 4
+\BOOKMARK [1][-]{section.2.2}{Malware Detection}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.1}{Signature Detection}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.2}{Change Detection}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.3}{Anomaly Detection}{section.2.2}% 8
+\BOOKMARK [0][-]{chapter.3}{Metamorphic Malware}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Techniques for generation of metamorphic malware}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.1.1}{Garbage code insertion}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.2}{Register swap}{section.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.1.3}{Subroutine Permutation}{section.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.1.4}{Random jump instructions}{section.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.1.5}{Equivalent code substitution}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.6}{Host code mutation}{section.3.1}% 16
+\BOOKMARK [0][-]{chapter.4}{Bytecode Manipulation}{}% 17
+\BOOKMARK [1][-]{section.4.1}{Java Classes}{chapter.4}% 18
+\BOOKMARK [2][-]{subsection.4.1.1}{Structure of Class}{section.4.1}% 19
+\BOOKMARK [2][-]{subsection.4.1.2}{Structure of Method}{section.4.1}% 20
+\BOOKMARK [2][-]{subsection.4.1.3}{Bytecode Instructions}{section.4.1}% 21
+\BOOKMARK [1][-]{section.4.2}{Bytecode Manipulation}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.3}{Bytecode Manipulation Library - ASM}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.3.1}{ASM}{section.4.3}% 24
+\BOOKMARK [2][-]{subsection.4.3.2}{Interfaces and Components}{section.4.3}% 25
+\BOOKMARK [0][-]{chapter.5}{Hidden Markov Models}{}% 26
+\BOOKMARK [1][-]{section.5.1}{Overview of HMMs}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.2}{Threshold Approach}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.3}{Dueling Approach}{chapter.5}% 29
+\BOOKMARK [0][-]{chapter.6}{Design and Implementation}{}% 30
+\BOOKMARK [1][-]{section.6.1}{Machine Configurations and Programming Languages}{chapter.6}% 31
+\BOOKMARK [2][-]{subsection.6.1.1}{Machine Configurations}{section.6.1}% 32
+\BOOKMARK [2][-]{subsection.6.1.2}{Programming Languages}{section.6.1}% 33
+\BOOKMARK [1][-]{section.6.2}{Design}{chapter.6}% 34
+\BOOKMARK [2][-]{subsection.6.2.1}{Algorithm}{section.6.2}% 35
+\BOOKMARK [1][-]{section.6.3}{Testing}{chapter.6}% 36
+\BOOKMARK [2][-]{subsection.6.3.1}{Threshold Approach}{section.6.3}% 37
+\BOOKMARK [2][-]{subsection.6.3.2}{Dueling Approach}{section.6.3}% 38
+\BOOKMARK [0][-]{chapter.7}{Experiments and Results}{}% 39
+\BOOKMARK [0][-]{chapter.8}{Conclusion and Future Work}{}% 40
+\BOOKMARK [0][-]{appendix.A}{Threshold Approach Results}{}% 41
+\BOOKMARK [1][-]{section.A.1}{HMMs with states 2,3,4 testing for 1st group of data}{appendix.A}% 42
+\BOOKMARK [1][-]{section.A.2}{HMMs with states 2,3,4 testing for 2nd group of data}{appendix.A}% 43
+\BOOKMARK [1][-]{section.A.3}{HMMs with states 2,3,4 testing for 3rd group of data}{appendix.A}% 44
+\BOOKMARK [1][-]{section.A.4}{HMMs with states 2,3,4 testing for 4th group of data}{appendix.A}% 45
+\BOOKMARK [1][-]{section.A.5}{HMMs with states 2,3,4 testing for 5th group of data}{appendix.A}% 46

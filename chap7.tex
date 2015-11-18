@@ -1,0 +1,7 @@
+\chapter{Experiments and Results}
+
+This project proposed the idea of using bytecode manipulation libraries in order to manipulate java class file. There are various bytecode manipulation libraries like Javassist, BCEL, ASM, Soot, out of which, ASM was chosen for performing various code obfuscation techniques. The code obfuscation techniques were performed abiding by the rules like, following the sequential order of methods for ClassVisitor, ClassReader and other dependent classes. 
+
+In order to perform the detection, we used Hidden Markov Models. It was seen that HMMs could identify the obfuscated files correctly. We used five-fold cross validation on 100 files and their scores were compared. In most of the cases, the score range for obfuscated files was marked differently from the benign files.
+
+A good future project would be to perform obfuscation using libraries like Soot, BCEL, and compare their efficiency with the obfuscation performed by ASM. These libraries provide a similar framework and hence, their advantages and drawbacks with respect to ASM need to be studied.
